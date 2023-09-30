@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {}
+    "c:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {
+    "c:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+        "projectUniqueName": "c:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "C:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+        "projectPath": "c:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\genbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\obj\\",
+        "outputPath": "c:\\Users\\genbo\\OneDrive\\Pulpit\\Carsties\\demo\\Carsties\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\genbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
